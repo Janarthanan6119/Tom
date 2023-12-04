@@ -1,0 +1,18 @@
+/*  */
+h1{
+    color:brown;
+}
+div{
+    border: 1px solid red;
+    width:300px;
+    left:300px;
+    position: relative;
+    background-color: red;
+}
+img{
+    border: 1px dotted rgb(0, 255, 132); 
+    border-radius: 50%;  
+}
+/* body{
+    background-color: aqua;
+} */
